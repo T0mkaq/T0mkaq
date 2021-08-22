@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @T0mkaq
+- 👀 I’m interested in nothing...
+- 🌱 I’m currently learning at home...
+- 📫 How to reach me - no way...
+
+<!---
+T0mkaq/T0mkaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
